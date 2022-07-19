@@ -30,5 +30,5 @@ future code adaptations could include;
 - sound
 - etc
 
-Manual on instructables
+user guide included, buidling instructions in *introduction.pdf* also on instructables,
 3d printable casing on thingiverse
