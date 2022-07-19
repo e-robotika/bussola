@@ -27,7 +27,7 @@ future code adaptations could include;
 - adding data storage
 - adding gps
 - bluetooth data connection to mobile device
-- sound
+- sound, or speach
 - etc
 
 user guide included, building instructions in *introduction.pdf*, also on instructables,
