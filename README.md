@@ -1,4 +1,4 @@
-# geo-bit
+# geo:bit
 Digital geological compass on micro:bit, 
 
 accuracy approximately 3 degrees re. magnetic North
