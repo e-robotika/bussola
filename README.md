@@ -1,9 +1,9 @@
 # geo:bit
-Digital geological compass on micro:bit, 
+Digital geological compass using micro:bit, and 3D printed case.
 
-accuracy approximately 3 degrees re. magnetic North
+Accuracy average 3 degrees re. magnetic North
 
-accuracy clinometer better than 1 degree.
+Accuracy clinometer better than 1 degree.
 
 Uses 5x5 led display to display data fast, first column shows 100's, second and third column 10's, last two columns show 1's : example:
 
